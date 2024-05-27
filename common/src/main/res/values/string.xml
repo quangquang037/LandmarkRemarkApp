@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+
+    <string name="delete_note">Remove Note</string>
+    <string name="content_delete">Are you sure delete note ?</string>
+    <string name="empty_field_error">This field is required</string>
+
+</resources>

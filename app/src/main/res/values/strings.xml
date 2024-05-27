@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Landmark Remark App</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="register_page">Register Account</string>
+    <string name="userName">User Name</string>
+    <string name="address">Address</string>
+
+
+    <string name="empty_field_error">This field is required</string>
+    <string name="user_not_found">User Not Found</string>
+    <string name="error">Error App</string>
+</resources>
