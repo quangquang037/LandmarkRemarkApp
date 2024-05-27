@@ -36,8 +36,8 @@ fun LoginScreen(
     mainViewModel: MainViewModel,
     registerOnclick: () -> Unit ={}
     ){
-    var emailValue by rememberSaveable { mutableStateOf("pducquang037@gmail.com") }
-    var passwordValue by rememberSaveable { mutableStateOf("Quang_168") }
+    var emailValue by rememberSaveable { mutableStateOf("") }
+    var passwordValue by rememberSaveable { mutableStateOf("") }
 
     Box(modifier = Modifier.background(MaterialTheme.colorScheme.background)){
         Column(modifier = Modifier.fillMaxSize(), verticalArrangement = Arrangement.Center) {
